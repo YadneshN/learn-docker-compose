@@ -1,8 +1,4 @@
-# Docker Compose Basics — Teaching Repo
-
-**Instructor:** Yadnesh  
-**Duration:** 2 hours (hands-on + theory)  
-**Goal:** Teach students how to use Docker Compose to define and run multi-container Docker applications.
+# Docker Compose Basics
 
 ## What this repo contains
 - `01-basics-nginx/` — Simple nginx compose example
@@ -29,9 +25,3 @@
    docker compose down
    ```
 3. Read `docs/theory.md` for background and commands.
-
-## How to share with students
-- Create a GitHub repo (public or private) and push this project. See `instructor/publish_instructions.md` for commands.
-- Optionally enable GitHub Pages from `main`/`master` branch to publish theory as a simple website.
-
----
