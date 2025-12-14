@@ -8,7 +8,6 @@
 - `05-common-commands/` — Cheat sheet for commands
 - `docs/` — Theoretical material, lesson plan and slides notes
 - `instructor/` — Instructor notes and suggested timeline
-- `LICENSE` — MIT License
 - `.gitignore`
 
 ## Quick start (for students)
