@@ -14,7 +14,7 @@
 1. Clone the repo:
    ```bash
    git clone <YOUR-REPO-URL>
-   cd docker-compose-course-repo
+   cd learn-docker-compose
    ```
 2. Pick a lab folder, e.g.:
    ```bash
