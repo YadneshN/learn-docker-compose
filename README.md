@@ -20,7 +20,7 @@
    ```bash
    cd 01-basics-nginx
    docker compose up -d
-   # visit http://localhost:8080
+   # curl http://localhost:8080
    docker compose down
    ```
 3. Read `docs/theory.md` for background and commands.
