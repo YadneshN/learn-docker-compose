@@ -19,7 +19,7 @@
 2. Pick a lab folder, e.g.:
    ```bash
    cd 01-basics-nginx
-   docker compose up
+   docker compose up -d
    # visit http://localhost:8080
    docker compose down
    ```
